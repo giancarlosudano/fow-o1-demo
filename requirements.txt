@@ -1,0 +1,16 @@
+#Python Generic
+python-dotenv==1.0.0
+chardet==5.2.0
+
+#Open AI
+openai==1.47.1
+
+#Langchain
+langchain==0.2.0
+langchain-community==0.2.0
+langchain-experimental==0.0.59
+langchain-openai==0.1.7
+
+# Streamlit
+streamlit==1.38.0
+extra-streamlit-components==0.1.71
