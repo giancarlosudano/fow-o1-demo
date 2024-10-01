@@ -12,5 +12,7 @@
     "azureFunctions.projectSubpath": "code\\batch",
     "python.REPL.enableREPLSmartSend": false,
     "python.analysis.autoImportCompletions": true,
-    "python.analysis.typeCheckingMode": "off"
+    "python.analysis.typeCheckingMode": "off",
+    "appService.defaultWebAppToDeploy": "/subscriptions/2dd38d22-ef3c-48a0-b489-57e1df5f4896/resourceGroups/rg-rapid-prototypes/providers/Microsoft.Web/sites/mtcmilan-fow-o1demo",
+    "appService.deploySubpath": "."
 }
